@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAj4N9XKxYu323ZAT1Cbp6yI_hJiE-3yR0wD6yBSKxWPYcKuoqfKsuVVkSpxaQZeW9J8&usqp=CAU)
+
 <h1 align="center">Hi 👋, I'm Mahek Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
