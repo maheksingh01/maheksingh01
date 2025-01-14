@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahek Singh</h1>
-<hr/>
+
 
 <h3 align="center">A passionate developer from India</h3>
 
